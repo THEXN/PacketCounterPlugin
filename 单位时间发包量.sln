@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单位时间发包量", "单位时间发包量\单位时间发包量.csproj", "{AEC88180-CADE-4E48-95CB-A3A8317198DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC88180-CADE-4E48-95CB-A3A8317198DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC88180-CADE-4E48-95CB-A3A8317198DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC88180-CADE-4E48-95CB-A3A8317198DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC88180-CADE-4E48-95CB-A3A8317198DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D175EE-3A47-429E-A624-4DB437BDB7D9}
+	EndGlobalSection
+EndGlobal
